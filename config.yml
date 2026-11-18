@@ -1,0 +1,9 @@
+# Restart the backend after editing. Existing sessions keep their original config.
+participants: [human, ai, ai]
+# Supported groups: [human, ai, ai], [human, human, ai], [human, human, human]
+discussion_seconds: 60
+voting_seconds: 30
+feedback_seconds: 6
+waiting_seconds: 180
+rounds: 2
+
